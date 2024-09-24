@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start": "serve -s dist",  // Serve the production build
+    "start": "serve -s dist", 
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -14,7 +14,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
-    "serve": "^14.0.1"  // Add serve here as well
+    "serve": "^14.0.1"  
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
